@@ -1,1 +1,2 @@
-const filter = 0;
+const filter = () => {};
+const sort = () => {};
